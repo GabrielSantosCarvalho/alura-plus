@@ -83,4 +83,8 @@ width: 80%;
 }
 .dispositivos__lista{
 display:flex;
+justify-content: center;
+}
+.dispositivos{
+    text-align: center;
 }
